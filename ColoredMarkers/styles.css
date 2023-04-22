@@ -1,0 +1,98 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.container {
+    padding: 10px 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.col {
+    float: left;
+    width: 33.33%;
+}
+
+.marker {
+    height: 25px;
+    width: 200px;
+    margin: 10px auto;
+}
+
+.cap {
+    width: 60px;
+    height: 25px;
+}
+
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 10px double rgba(0, 0, 0, 75%);
+}
+
+.cap,
+.sleeve {
+    display: inline-block;
+}
+
+.red {
+    background: linear-gradient(rgb(122, 74, 14), rgb(255, 00, 00), rgb(162, 27, 27));
+    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+}
+
+.green {
+    background: linear-gradient(#55680D, #71F53E, #116C31);
+    box-shadow: 0 0 20px 0 #3B7E20CC;
+}
+
+.blue {
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
+}
+
+.yellow {
+    background: linear-gradient(rgb(156, 156, 34), rgb(255, 255, 0), rgb(133, 133, 4));
+    box-shadow: 0 0 20px 0 rgba(156, 156, 34, 0.8);
+}
+
+.cyan {
+    background: linear-gradient(rgb(27, 185, 185), rgb(0, 255, 255), rgb(17, 143, 143));
+    box-shadow: 0 0 20px 0 rgba(27, 185, 185, 0.8);
+}
+
+.magenta {
+    background: linear-gradient(rgb(179, 31, 179), rgb(255, 0, 255), rgb(126, 8, 126));
+    box-shadow: 0 0 20px 0 rgba(179, 31, 179, 0.8);
+}
+
+.orange {
+    background: linear-gradient(rgb(172, 101, 30), rgb(255, 127, 0), rgb(153, 81, 8));
+    box-shadow: 0 0 20px 0 rgba(172, 101, 30, 0.8);
+}
+
+.springgreen {
+    background: linear-gradient(rgb(29, 175, 102), rgb(0, 255, 127), rgb(7, 129, 68));
+    box-shadow: 0 0 20px 0 rgba(29, 175, 102, 0.8);
+}
+
+.violet {
+    background: linear-gradient(rgb(88, 23, 153), rgb(127, 0, 255), rgb(65, 0, 131));
+    box-shadow: 0 0 20px 0 rgba(88, 23, 153, 0.8);
+}
+
+.chartreuse {
+    background: linear-gradient(rgb(91, 156, 26), rgb(127, 255, 0), rgb(66, 133, 0));
+    box-shadow: 0 0 20px 0 rgba(91, 156, 26, 0.8);
+}
+
+.azure {
+    background: linear-gradient(rgb(23, 90, 156), rgb(0, 127, 255), rgb(3, 69, 134));
+    box-shadow: 0 0 20px 0 rgba(23, 90, 156, 0.8);
+}
+
+.rose {
+    background: linear-gradient(rgb(155, 26, 90), rgb(255, 0, 127), rgb(119, 2, 60));
+    box-shadow: 0 0 20px 0 rgba(155, 26, 90, 0.8);
+}
