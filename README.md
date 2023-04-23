@@ -1,4 +1,4 @@
-[⬅ Go Back](https://github.com/JpMunhozOliveira)
+[⬅ Go Back](https://github.com/JpMunhozOliveira#courses)
  
 <p align="center">
   <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
