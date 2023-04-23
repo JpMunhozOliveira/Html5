@@ -9,8 +9,8 @@
 <h1 align="center">(New) Responsive Web Design</h1>
 
 <p align="center">
-  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/html5/html5-original.svg" alt="Html Logo" width="50" height="50"/>
-  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/css3/css3-original.svg" alt="Css Logo" width="50" height="50" />
+  <picture><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/html5/html5-original.svg" alt="Html Logo" width="50" height="50"></picture>
+  <picture><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/css3/css3-original.svg" alt="Css Logo" width="50" height="50"></picture>
 </p>
 
 <h3 align="center">
