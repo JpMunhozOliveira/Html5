@@ -2,15 +2,15 @@
  
 <p align="center">
   <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
-    <img src="" alt="FreeCodeCamp" width="150" height="150"/>
+    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/icons/courses/freecodecamp/fcc_primary_small.svg" alt="FreeCodeCamp" width="150" height="150"/>
   </a>
 </p>
 
 <h1 align="center">(New) Responsive Web Design</h1>
 
 <p align="center">
-  <img src="" alt="Html logo" width="50" height="50"/>
-  <img src="" alt="Css logo" width="50" height="50" />
+  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/icons/programming/html5/html5-original.svg" alt="Html Logo" width="50" height="50"/>
+  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/icons/programming/css3/css3-original.svg" alt="Css Logo" width="50" height="50" />
 </p>
 
 <h3 align="center">
