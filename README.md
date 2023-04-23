@@ -1,25 +1,32 @@
-<a href="https://github.com/JpMunhozOliveira">⬅ Go Back</a>
+[⬅ Go Back](https://github.com/JpMunhozOliveira)
  
 <p align="center">
   <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
-    <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" />
+    <img src="" alt="FreeCodeCamp" width="150" height="150"/>
   </a>
 </p>
 
 <h1 align="center">(New) Responsive Web Design</h1>
 
 <p align="center">
-  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/lua.png" alt="Html logo" />
-  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/lua.png" alt="Css logo" />
+  <img src="" alt="Html logo" width="50" height="50"/>
+  <img src="" alt="Css logo" width="50" height="50" />
 </p>
 
-<p>
- In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+<h3 align="center">
+👋 Welcome to the Responsive Web Design Certification! 💻🌐
+</h3><br>
 
-First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
- Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
- </p>
+Throughout the course, I learned how developers use HTML (Hypertext Markup Language) for content and CSS (Cascading Style Sheets) for design. And the best part is, the course is beginner-friendly, so no matter if you have no prior programming experience, you can easily follow along. 🤗
+
+🐱 The first project I built was a cat photo app, which taught me the basics of HTML and CSS. Next, I learned more advanced techniques like CSS variables by building an adorable penguin 🐧 and also best practices for accessibility by creating a quiz site.
+
+Finally, I learned how to create web pages that respond to different screen sizes using Flexbox to create a stunning photo gallery 🖼️ and Grid to create a magazine article layout 📰.
+
+I highly recommend this course to anyone looking to start or improve their skills in responsive web design. Don't miss the chance to learn from the best teachers! 🚀
  
- <ul>
-   <li><a href="#"></li>
- </ul>
+## Projects
+
+- [Cafe Menu](#)
+- [Colored Markers](#)
+
