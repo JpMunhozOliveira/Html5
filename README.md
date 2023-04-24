@@ -25,10 +25,17 @@ Finally, I learned how to create web pages that respond to different screen size
 
 I highly recommend this course to anyone looking to start or improve their skills in responsive web design. Don't miss the chance to learn from the best teachers! 🚀
  
-## Projects
-- [Cat Photo App](CatPhotoApp)
-- [Cafe Menu](CafeMenu)
-- [Colored Markers](ColoredMarkers)
+## Certification Projects
+
+
+
+## Learning Projects
+ 
+- [Cat Photo App](CatPhotoApp) - [Cafe Menu](CafeMenu) - [Colored Markers](ColoredMarkers) - [Registration Form](RegistrationForm)
+
+
+
+
 
 ## Certificate
 
