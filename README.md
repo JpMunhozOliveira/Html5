@@ -9,7 +9,7 @@
 <h1 align="center">(New) Responsive Web Design</h1>
 
 <p align="center">
-  <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/html5/html5-original.svg" alt="Html Logo" width="50" height="50"></a>
+  <a href="#"><img readonly src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/html5/html5-original.svg" alt="Html Logo" width="50" height="50"></a>
   <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/css3/css3-original.svg" alt="Css Logo" width="50" height="50"></a>
 </p>
 
@@ -26,7 +26,7 @@ Finally, I learned how to create web pages that respond to different screen size
 I highly recommend this course to anyone looking to start or improve their skills in responsive web design. Don't miss the chance to learn from the best teachers! 🚀
  
 ## Projects
-
+- [Cat Photo App](CatPhotoApp)
 - [Cafe Menu](CafeMenu)
 - [Colored Markers](ColoredMarkers)
 
