@@ -27,15 +27,11 @@ I highly recommend this course to anyone looking to start or improve their skill
  
 ## Certification Projects
 
-
+- [Survey Form](SurveyForm)
 
 ## Learning Projects
  
 - [Cat Photo App](CatPhotoApp) - [Cafe Menu](CafeMenu) - [Colored Markers](ColoredMarkers) - [Registration Form](RegistrationForm)
-
-
-
-
 
 ## Certificate
 
