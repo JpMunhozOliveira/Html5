@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <header class="header">
+            <h1 id="title" class="text-center">Retro Rumble Survey Form</h1>
+            <p id="description" class="description text-center">Thank you for taking the time to help us improve</p>
+        </header>
+
+        <main>
+            <form id="survey-form" action="" method="post">
+
+                <div class="form-group">
+                    <label id="name-label" for="name">Name:</label>
+                    <input id="name" name="Name" type="text" placeholder="Enter your name" class="form-control"
+                        required>
+                </div>
+                <div class="form-group">
+                    <label id="email-label" for="email">Email:</label>
+                    <input id="email" name="Email" type="email" placeholder="Enter your Email" class="form-control"
+                        required>
+                </div>
+                <div class="form-group">
+                    <label id="number-label" for="number">Age <span>(Optional)</span>:</label>
+                    <input id="number" name="Age" type="number" placeholder="Age" min="13" max="120"
+                        class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <p>How did you hear about Retro Rumble?</p>
+                    <select name="Dropdown" id="dropdown" class="form-control" required>
+                        <option disabled selected value="">(Select One)</option>
+                        <option value="1">Online Advertising</option>
+                        <option value="2">Social Media</option>
+                        <option value="3">Recommendation from friends or family</option>
+                        <option value="4">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <p>How often do you play video games?</p>
+                    <label>
+                        <input value="daily" type="radio" name="Frequency" class="input-radio">Daily
+                    </label>
+                    <label>
+                        <input value="weekly" type="radio" name="Frequency" class="input-radio">Weekly
+                    </label>
+                    <label>
+                        <input value="monthly" type="radio" name="Frequency" class="input-radio">Monthly
+                    </label>
+                </div>
+
+                <div class="form-group">
+                    <p>Which retro rumble games have you played?</p>
+                    <label>
+                        <input name="game" value="cyberstrike" type="checkbox" class="input-checkbox">CyberStrike
+                    </label>
+                    <label>
+                        <input name="game" value="galacticodyssey" type="checkbox" class="input-checkbox">Galactic
+                        Odyssey
+                    </label>
+                    <label>
+                        <input name="game" value="dungeonmasters" type="checkbox" class="input-checkbox">Dungeon Masters
+                    </label>
+                    <label>
+                        <input name="game" value="shadowrealm" type="checkbox" class="input-checkbox">Shadow Realm
+                    </label>
+                    <label>
+                        <input name="game" value="epicquest" type="checkbox" class="input-checkbox">Epic Quest
+                    </label>
+                    <label>
+                        <input name="game" value="futurecity" type="checkbox" class="input-checkbox">Future City
+                    </label>
+                </div>
+
+                <div class="form-group">
+                    <p>Any comments or suggestions?</p>
+                    <textarea name="" id="" cols="30" rows="10" placeholder="Enter your comment here..."
+                        class="input-textarea"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <input id="submit" type="submit">
+                </div>
+            </form>
+        </main>
+    </div>
+</body>
+
+</html>
