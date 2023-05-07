@@ -32,7 +32,7 @@ I highly recommend this course to anyone looking to start or improve their skill
 ## Learning Projects
  
 - [Cat Photo App](CatPhotoApp) - [Cafe Menu](CafeMenu) - [Colored Markers](ColoredMarkers) - [Registration Form](RegistrationForm)
-- [Rothko Painting](RothkoPainting) - [Photo Gallery](PhotoGallery)
+- [Rothko Painting](RothkoPainting) - [Photo Gallery](PhotoGallery) - [Nutrition Label](NutritionLabel)
 
 ## Certificate
 
