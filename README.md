@@ -27,12 +27,13 @@ I highly recommend this course to anyone looking to start or improve their skill
  
 ## Certification Projects
 
-- [Survey Form](SurveyForm)
+- [Survey Form](SurveyForm) - [Tribute Page](TributePage)
 
 ## Learning Projects
  
 - [Cat Photo App](CatPhotoApp) - [Cafe Menu](CafeMenu) - [Colored Markers](ColoredMarkers) - [Registration Form](RegistrationForm)
 - [Rothko Painting](RothkoPainting) - [Photo Gallery](PhotoGallery) - [Nutrition Label](NutritionLabel) - [Quiz](Quiz)
+- [Balance Sheet](BalanceSheet)
 
 ## Certificate
 
