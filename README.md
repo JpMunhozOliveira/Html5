@@ -36,6 +36,7 @@ I highly recommend this course to anyone looking to start or improve their skill
 - [Cat Photo App](CatPhotoApp) - [Cafe Menu](CafeMenu) - [Colored Markers](ColoredMarkers) - [Registration Form](RegistrationForm)
 - [Rothko Painting](RothkoPainting) - [Photo Gallery](PhotoGallery) - [Nutrition Label](NutritionLabel) - [Quiz](Quiz)
 - [Balance Sheet](BalanceSheet) - [Picasso Painting](PicassoPainting) - [Piano](Piano)
+- [City Skyline](CitySkyline)
 
 ## Certificate
 
