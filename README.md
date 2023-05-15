@@ -27,7 +27,9 @@ I highly recommend this course to anyone looking to start or improve their skill
  
 ## Certification Projects
 
-- [Survey Form](SurveyForm) - [Tribute Page](TributePage)
+- [Survey Form](SurveyForm) 
+- [Tribute Page](TributePage)
+- [Documentation Page](DocumentationPage)
 
 ## Learning Projects
  
