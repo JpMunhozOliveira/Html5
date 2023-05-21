@@ -1,26 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+#title {
     text-align: center;
-    line-height: 1.5;
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
 }
 
-#main{
-    margin: 30px 18px;
-    padding: 15px;
-}
-
-#title{
-    margin: 15px 0 0 0;
+#subtitle {
+    text-align: center;
 }
 
 #image {
-    max-width: 100%;
     display: block;
-    height: auto;
     margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-#tribute-info{
-    margin: 0 auto;
-    max-width: 500px;
+#img-caption {
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+#tribute-info {
+    background-color: #fff;
+    padding: 20px;
+    max-width: 660px;
+    margin: 20px auto 0 auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+#tribute-link {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+#tribute-link:hover {
+    color: #007bff;
 }
