@@ -1,9 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
 html,
 body {
     min-width: 290px;
-    color: #18191d;
     background-color: #ffffff;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.5;
 }
 
@@ -12,22 +15,20 @@ body {
     min-width: 290px;
     top: 0px;
     left: 0px;
-    width: 250px;
     height: 100%;
-    border-right: 2px solid #5e5e5e;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 
 #navbar ul {
     padding: 0;
-    overflow-y: auto;
-    overflow-x: hidden;
+    margin: 0;
 }
 
 #navbar li {
-    border-top: 1px solid #5e5e5e;
     list-style: none;
-    position: relative;
-    width: 100%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
 }
 
 #navbar a {
@@ -35,6 +36,11 @@ body {
     padding: 10px 30px;
     text-decoration: none;
     cursor: pointer;
+    color: #272727;
+}
+
+#navbar a:hover {
+    background-color: #dddddd;
 }
 
 #main-doc {
@@ -54,16 +60,8 @@ header {
     color: black;
     margin: 10px;
     text-align: center;
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-weight: thin;
-}
-
-section {
-    border-bottom: 2px solid #5e5e5e;
-}
-
-section:last-child {
-    border-bottom: none;
 }
 
 section article {
@@ -74,15 +72,22 @@ section article {
     padding-left: 20px;
 }
 
-.main-section p, .main-section code {
- padding-left: 15px;
+.main-section p,
+.main-section code {
+    padding-left: 15px;
 }
+
 
 @media only screen and (max-width: 815px) {
 
     #navbar ul {
-        border: 1px solid;
         height: 207px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    #navbar li {
+        width: 100%;
     }
 
     #navbar {
@@ -93,9 +98,7 @@ section article {
         margin: 0;
         width: 100%;
         max-height: 275px;
-        border: none;
         z-index: 1;
-        border-bottom: 2px solid;
     }
 
     #main-doc {
