@@ -3,44 +3,87 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Landing Page</title>
 
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 </head>
 
 <body>
     <header id="header">
-        <img id="header-img" src="" alt="">
+        <img id="header-img" src="journeyMakersLogo.png" alt="Plush Palace">
         <nav id="nav-bar">
             <ul>
-                <li><a class="nav-link" href="#Pricing"></a></li>
-                <li><a class="nav-link" href="#Features"></a></li>
-                <li><a class="nav-link" href="#test"></a></li>
+                <li><a class="nav-link" href="#Features">Features</a></li>
+                <li><a class="nav-link" href="#Demonstration">Demonstration</a></li>
+                <li><a class="nav-link" href="#Pricing">Pricing</a></li>
+                <li><a class="nav-link" href="#Subscribe">Subscribe</a></li>
             </ul>
         </nav>
     </header>
+
     <main>
-        <section id="Pricing">
-
-        </section>
         <section id="Features">
-
-            <iframe id="video" src="https://www.youtube.com/watch?v=ojxzHnXBh10" frameborder="0"></iframe>
-            
+            <h2>Features</h2>
+            <div class="features-container">
+                <div class="feature">
+                    <i class="fas fa-plane"></i>
+                    <p>Explore exotic destinations and experience new cultures</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-suitcase"></i>
+                    <p>Customizable travel packages to suit your preferences</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-map-marked-alt"></i>
+                    <p>Expertly planned itineraries for a hassle-free travel experience</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-globe"></i>
+                    <p>Wide range of destinations to choose from</p>
+                </div>
+            </div>
         </section>
-        <section id="test">
+
+        <section id="Demonstration">
+            <iframe id="video" src="https://www.youtube.com/embed/S26Vtb4Cbvc" title="Generic commercial for Travel agents" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section id="Pricing">
+            <h2>Check out our exciting travel packages:</h2>
+            <div class="pricing-cards">
+                <div class="card">
+                    <img src="beach-package.jpg" alt="Beach Package">
+                    <h3>Beach Package</h3>
+                    <p class="price">$999</p>
+                </div>
+                <div class="card">
+                    <img src="adventure-package.jpg" alt="Adventure Package">
+                    <h3>Adventure Package</h3>
+                    <p class="price">$1499</p>
+                </div>
+                <div class="card">
+                    <img src="cultural-package.jpg" alt="Cultural Package">
+                    <h3>Cultural Package</h3>
+                    <p class="price">$1999</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="Subscribe">
+            <p>Subscribe to our newsletter to receive updates about new travel destinations and exclusive offers:</p>
             <form action="https://www.freecodecamp.com/email-submit" method="post" id="form">
                 <label for="email">
-                    <input name="email" type="email" placeholder="your email" id="email">
+                    <input name="email" type="email" placeholder="your email" id="email" />
                 </label>
-                <input type="submit" id="submit">
+                <input type="submit" id="submit" value="Subscribe">
             </form>
         </section>
+
     </main>
     <footer>
-
+        <p>&copy; The information and content on this website are used for educational purposes.</p>
     </footer>
 </body>
 
