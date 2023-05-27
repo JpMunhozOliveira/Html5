@@ -43,4 +43,8 @@ I highly recommend this course to anyone looking to start or improve their skill
 
 ## Certificate
 
-Comming soon!
+<p align="center">
+  <a href="https://freecodecamp.org/certification/fcc1082f1d2-0935-4dfc-87a9-226bd15a2abf/responsive-web-design">
+    <img src="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/Certificate.jpeg" alt="FreeCodeCamp" width="750" />
+  </a>
+</p>
