@@ -30,6 +30,7 @@ I highly recommend this course to anyone looking to start or improve their skill
 - [Survey Form](SurveyForm) 
 - [Tribute Page](TributePage)
 - [Documentation Page](DocumentationPage)
+- [Landing Page](LandingPage)
 
 ## Learning Projects
  
@@ -37,6 +38,7 @@ I highly recommend this course to anyone looking to start or improve their skill
 - [Rothko Painting](RothkoPainting) - [Photo Gallery](PhotoGallery) - [Nutrition Label](NutritionLabel) - [Quiz](Quiz)
 - [Balance Sheet](BalanceSheet) - [Picasso Painting](PicassoPainting) - [Piano](Piano)
 - [City Skyline](CitySkyline) - [Magazine](Magazine)
+- [Ferris Wheel](FerrisWheel) - [Penguin](Penguin)
 
 ## Certificate
 
