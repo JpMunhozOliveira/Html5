@@ -31,6 +31,7 @@ I highly recommend this course to anyone looking to start or improve their skill
 - [Tribute Page](TributePage)
 - [Documentation Page](DocumentationPage)
 - [Landing Page](LandingPage)
+- [Portfolio](Portfolio)
 
 ## Learning Projects
  
