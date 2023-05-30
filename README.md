@@ -24,22 +24,119 @@ Throughout the course, I learned how developers use HTML (Hypertext Markup Langu
 Finally, I learned how to create web pages that respond to different screen sizes using Flexbox to create a stunning photo gallery 🖼️ and Grid to create a magazine article layout 📰.
 
 I highly recommend this course to anyone looking to start or improve their skills in responsive web design. Don't miss the chance to learn from the best teachers! 🚀
- 
-## Certification Projects
 
-- [Survey Form](SurveyForm) 
-- [Tribute Page](TributePage)
-- [Documentation Page](DocumentationPage)
-- [Landing Page](LandingPage)
-- [Portfolio](Portfolio)
-
-## Learning Projects
+## Projects 
  
-- [Cat Photo App](CatPhotoApp) - [Cafe Menu](CafeMenu) - [Colored Markers](ColoredMarkers) - [Registration Form](RegistrationForm)
-- [Rothko Painting](RothkoPainting) - [Photo Gallery](PhotoGallery) - [Nutrition Label](NutritionLabel) - [Quiz](Quiz)
-- [Balance Sheet](BalanceSheet) - [Picasso Painting](PicassoPainting) - [Piano](Piano)
-- [City Skyline](CitySkyline) - [Magazine](Magazine)
-- [Ferris Wheel](FerrisWheel) - [Penguin](Penguin)
+<div align="center">
+  <br />
+ <table>
+  
+ <!-------------------------------Header-------------------------------->
+  
+  <tr>
+   <th colspan="5" height="60"> Certification Projects </th>
+  </tr>
+  
+ <!------------------------------Projects------------------------------->
+  
+  <tr>
+   <td align="center" width="126" height="100">
+      <a href="SurveyForm"> Survey Form </a>
+   </td>
+   <td align="center" width="126">
+      <a href="TributePage"> Tribute Page </a>
+   </td>
+   <td align="center" width="126">
+      <a href="DocumentationPage"> Documentation Page </a>
+   </td>
+   <td align="center" width="126">
+      <a href="LandingPage"> Landing Page </a>
+   </td>
+   <td align="center" width="126">
+      <a href="Portfolio"> Portfolio </a>
+   </td>
+  </tr>
+ </table>
+ 
+ <br />
+ <!---------------------------- Nova Tabela------------------------------->
+ 
+ <table>
+  
+  <!-------------------------------Header-------------------------------->
+  
+  <tr>
+   <th colspan="4" height="60"> Learning Projects </th>
+  </tr>
+  
+  <!------------------------------Projects------------------------------->
+  <tr>
+   <td align="center" width="126" height="100">
+      <a href="CatPhotoApp"> Cat Photo App </a>
+   </td>
+   <td align="center" width="126">
+      <a href="CafeMenu"> Cafe Menu </a>
+   </td>
+   <td align="center" width="126">
+      <a href="ColoredMarkers"> Colored Markers </a>
+   </td>
+   <td align="center" width="126">
+      <a href="RegistrationForm"> Registration Form </a>
+   </td>
+  </tr>
+  
+  <tr>
+   <td align="center" height="100">
+      <a href="RothkoPainting"> Rothko Painting </a>
+   </td>
+   <td align="center">
+      <a href="PhotoGallery"> Photo Gallery </a>
+   </td>
+   <td align="center" >
+      <a href="NutritionLabel"> Nutrition Label </a>
+   </td>
+   <td align="center">
+      <a href="Quiz"> Quiz </a>
+   </td>
+  </tr>
+  
+  <tr>
+   <td align="center" height="100">
+      <a href="BalanceSheet"> Balance Sheet </a>
+   </td>
+   <td align="center">
+      <a href="PicassoPainting"> Picasso Painting </a>
+   </td>
+   <td align="center">
+      <a href="Piano"> Piano </a>
+   </td>
+   <td></td>
+  </tr>
+  
+  <tr>
+   <td align="center" height="100">
+      <a href="CitySkyline"> City Skyline </a>
+   </td>
+   <td align="center">
+      <a href="Magazine"> Magazine </a>
+   </td>
+   <td></td>
+   <td></td>
+  </tr>
+  
+   <tr>
+   <td align="center" height="100">
+      <a href="FerrisWheel"> Ferris Wheel </a>
+   </td>
+   <td align="center">
+      <a href="Penguin"> Penguin </a>
+   </td>
+   <td></td>
+   <td></td>
+  </tr>
+  
+ </table>
+</div>
 
 ## Certificate
 
