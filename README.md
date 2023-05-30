@@ -2,7 +2,7 @@
  
 <p align="center">
   <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
-    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/courses/freecodecamp/fcc_primary_small.svg" alt="FreeCodeCamp" width="150" height="150"/>
+    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/courses/freecodecamp/Web_Development_Icon.png" alt="FreeCodeCamp" width="177.23" height="138.38"/>
   </a>
 </p>
 
