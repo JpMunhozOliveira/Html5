@@ -28,60 +28,33 @@ I highly recommend this course to anyone looking to start or improve their skill
 ## Projects 
  
 <div align="center">
-  <br />
- <table>
-  
- <!-------------------------------Header-------------------------------->
-  
-  <tr>
-   <th colspan="5" height="60"> Certification Projects </th>
-  </tr>
-  
- <!------------------------------Projects------------------------------->
-  
-  <tr>
-   <td align="center" width="126" height="100">
-      <a href="SurveyForm"> Survey Form </a>
-   </td>
-   <td align="center" width="126">
-      <a href="TributePage"> Tribute Page </a>
-   </td>
-   <td align="center" width="126">
-      <a href="DocumentationPage"> Documentation Page </a>
-   </td>
-   <td align="center" width="126">
-      <a href="LandingPage"> Landing Page </a>
-   </td>
-   <td align="center" width="126">
-      <a href="Portfolio"> Portfolio </a>
-   </td>
-  </tr>
- </table>
- 
  <br />
- <!---------------------------- Nova Tabela------------------------------->
- 
  <table>
   
   <!-------------------------------Header-------------------------------->
   
   <tr>
    <th colspan="4" height="60"> Learning Projects </th>
+   <th colspan="1" height="60"> Certification Projects </th>
   </tr>
   
   <!------------------------------Projects------------------------------->
   <tr>
-   <td align="center" width="126" height="100">
+   <td align="center" width="100" height="100">
       <a href="CatPhotoApp"> Cat Photo App </a>
    </td>
-   <td align="center" width="126">
+   <td align="center" width="100">
       <a href="CafeMenu"> Cafe Menu </a>
    </td>
-   <td align="center" width="126">
+   <td align="center" width="100">
       <a href="ColoredMarkers"> Colored Markers </a>
    </td>
-   <td align="center" width="126">
+   <td align="center" width="100">
       <a href="RegistrationForm"> Registration Form </a>
+   </td>
+   
+   <td align="center" width="210">
+      <a href="SurveyForm"> Survey Form </a>
    </td>
   </tr>
   
@@ -98,6 +71,10 @@ I highly recommend this course to anyone looking to start or improve their skill
    <td align="center">
       <a href="Quiz"> Quiz </a>
    </td>
+   
+   <td align="center">
+      <a href="TributePage"> Tribute Page </a>
+   </td>
   </tr>
   
   <tr>
@@ -111,6 +88,10 @@ I highly recommend this course to anyone looking to start or improve their skill
       <a href="Piano"> Piano </a>
    </td>
    <td></td>
+   
+   <td align="center">
+      <a href="DocumentationPage"> Documentation Page </a>
+   </td>
   </tr>
   
   <tr>
@@ -122,6 +103,10 @@ I highly recommend this course to anyone looking to start or improve their skill
    </td>
    <td></td>
    <td></td>
+   
+   <td align="center">
+      <a href="LandingPage"> Landing Page </a>
+   </td>
   </tr>
   
    <tr>
@@ -132,7 +117,10 @@ I highly recommend this course to anyone looking to start or improve their skill
       <a href="Penguin"> Penguin </a>
    </td>
    <td></td>
-   <td></td>
+    <td></td>
+   <td align="center">
+      <a href="Portfolio"> Portfolio </a>
+   </td>
   </tr>
   
  </table>
